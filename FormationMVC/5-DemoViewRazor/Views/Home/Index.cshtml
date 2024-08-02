@@ -1,0 +1,191 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@*
+    Razor est un moteur de vues (générateur de vue) qui possède sa propre syntaxe - Fichier qui contient du HTML et du code c# d'où l'extension cshtml - Razor permet de traduire le contenus des fichiers .cshtml en langage HTML - la traduction se fait côté server.
+    Ce Contenu HTML est transmis par le controller au navigateur.
+    Razor utilise des Templates + données
+
+    Le basculement du HTML vers le  C# se fait avec le caractère @
+    Si ce caractère introduit un bloc de code, on mettra les accolades comme pour la ligne (1 - 3)
+    S'il introduit une variable dont on veut récupérer la valeur, on écrira simplement @Variable
+*@
+
+<h1>Vue Razor</h1>
+<br />
+@*La déclaration des variables avec Razor peut se faire en utilisant le mot clé "var"
+    ou en utilisant la syntaxe classique, en définissant explicitement le type de données
+*@
+@{ 
+    var v1 = 10;
+    int n = 100;
+    double d = 10.05;
+    d = v1 = n;
+
+    //commentaire c#
+
+    //Le symbole @: permet d'insérer du texte dans un bloc c#
+    @: ceci est un test
+
+    <text>ceci est un autre bloc de texte</text>
+}
+
+La valeur de la variable d: @d
+
+<br />
+<h3>Afficher le symbole @@</h3>
+<p>Mon email est : test@@dawan.fr</p>
+
+<br />
+
+@{ 
+    //Tableau
+    string[] clients = { "dawan", "jehann", "covid" };
+
+    //Dictionnaire
+    var mesApps = new Dictionary<string, string>();
+    mesApps.Add("App1", "ASP.NET");
+    mesApps.Add("App2", "Java");
+    mesApps.Add("App3", "Vues JS");
+}
+
+<br />
+<h3>Tableau</h3>
+Client à la position 1 du tableau: @clients[1]
+
+<br />
+<h3>Dictionnaire</h3>
+<p>La seconde application dans le dictionnaire est: @mesApps["App2"]</p>
+
+<br />
+<h3>Boucle FOR</h3>
+<table>
+    @for (int i = 1; i <= 10; i++)
+    {
+        <tr>
+            <td>10</td>
+            <td>*</td>
+            <td>@i</td>
+            <td>=</td>
+            <td>@(10*i)</td>
+        </tr>
+    }
+</table>
+
+<h3>Boucle FOREACH</h3>
+@foreach (var client in clients)
+            {
+               <p>@client</p>
+            }
+
+<br />
+
+<h3>Condition IF/ELSE</h3>
+@{ 
+    var jour = false;
+    if (jour)
+            {
+                @DateTime.Now;
+            }
+            else 
+            {
+                @: pas de date disponible
+            }
+
+}
+
+<br />
+
+<h3>Boucle switch</h3>
+@{ 
+    var civilite = "M";
+    var message = "";
+    switch (civilite)
+    {
+        case "M":
+            message = "Bonjour Monsieur";
+            break;
+        case "Mme":
+            message = "Bonjour Madame";
+            break;
+        default:
+            message = "Inconnu";
+            break; ;
+    }
+    <p>@message</p>
+}
+
+<p>Contenu de la variable en dehors du bloc: @message</p>
+
+<br />
+
+<h3>Boucle While</h3>
+
+@{ 
+    string[] clients2 = { "Dawan", "Jehann" };
+    int i2 = 0;
+    while (i2 < clients2.Length)
+            {
+                <p>@clients2[i2]</p>
+        i2++; //i2+=1 ou i2 = i2 + 1
+    }
+}
+
+<br />
+<h3>Gestion des exceptions</h3>
+@{ 
+    int a = 0, b = 0;
+    try
+    {
+        b = 5 / a;
+    }
+    catch (Exception e)
+    {
+                <p>Message de l'exception: @e.Message</p>
+    }
+}
+
+<br />
+@section footer
+    {
+        Footer de la page Index
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

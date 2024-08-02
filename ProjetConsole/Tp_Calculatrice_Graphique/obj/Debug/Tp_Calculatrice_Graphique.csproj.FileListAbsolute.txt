@@ -1,0 +1,10 @@
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\bin\Debug\Tp_Calculatrice_Graphique.exe.config
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\bin\Debug\Tp_Calculatrice_Graphique.exe
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\bin\Debug\Tp_Calculatrice_Graphique.pdb
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.Form1.resources
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.Properties.Resources.resources
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.csproj.GenerateResource.cache
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.exe
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.pdb
+C:\Users\William\source\repos\ProjetConsole\Tp_Calculatrice_Graphique\obj\Debug\Tp_Calculatrice_Graphique.csprojAssemblyReference.cache

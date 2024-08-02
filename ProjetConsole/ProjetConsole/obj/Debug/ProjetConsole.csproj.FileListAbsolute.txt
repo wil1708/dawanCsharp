@@ -1,0 +1,10 @@
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\bin\Debug\ProjetConsole.exe.config
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\bin\Debug\ProjetConsole.exe
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\bin\Debug\ProjetConsole.pdb
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.exe
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.pdb
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\bin\Debug\ProjetDLL.dll
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\bin\Debug\ProjetDLL.pdb
+C:\Users\William\source\repos\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.csproj.CopyComplete

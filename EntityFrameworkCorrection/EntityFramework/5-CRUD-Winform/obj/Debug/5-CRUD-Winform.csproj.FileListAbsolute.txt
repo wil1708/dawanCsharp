@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\5-CRUD-Winform.exe.config
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\5-CRUD-Winform.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\5-CRUD-Winform.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\5-CRUD-Winform.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\_5_CRUD_Winform.Form1.resources
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\_5_CRUD_Winform.Properties.Resources.resources
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\5-CRUD-Winform.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\5-CRUD-Winform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\5-CRUD-Winform.csproj.CopyComplete
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\5-CRUD-Winform.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\5-CRUD-Winform.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\5-CRUD-Winform\obj\Debug\_5_CRUD_Winform.Migrations.initialModel.resources

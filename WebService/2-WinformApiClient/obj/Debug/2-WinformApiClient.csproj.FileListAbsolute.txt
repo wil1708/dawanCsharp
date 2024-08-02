@@ -1,0 +1,16 @@
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\2-WinformApiClient.exe.config
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\2-WinformApiClient.exe
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\2-WinformApiClient.pdb
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\William\source\repos\WebService\2-WinformApiClient\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\2-WinformApiClient.csproj.AssemblyReference.cache
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\_2_WinformApiClient.Form1.resources
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\_2_WinformApiClient.Properties.Resources.resources
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\2-WinformApiClient.csproj.GenerateResource.cache
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\2-WinformApiClient.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\2-WinformApiClient.csproj.CopyComplete
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\2-WinformApiClient.exe
+C:\Users\William\source\repos\WebService\2-WinformApiClient\obj\Debug\2-WinformApiClient.pdb

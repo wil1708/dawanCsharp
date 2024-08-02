@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mon application ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    @Html.Partial("_NavBar")
+    
+    @*
+        Une vue Layout permet aux vues enfants d'insérer le contenu dans le body grâce à la méthode RenderBody
+        Une page Layout ne peut contenir qu'un seul emplacement RenderBody
+        Solution apportée par .NET pour que les vues enfants puissent insérer du contenu dans un Layout c'est l'utilisation des sections
+        Une vue partielle remplace les sections : permettent de factoriser du code HTML et c# dans un fichier réutilisable
+        Elles sont définies dans le dossier shared
+    *@
+    <div class="container body-content">
+        @RenderSection("maSection", required: false)
+        @RenderSection("sousMenu", required: false) 
+        @RenderBody()
+        <hr />
+        @if (IsSectionDefined("footer"))
+        {
+            @RenderSection("footer", required: false)
+        }else
+        {
+            @Html.Partial("_footer");
+        }
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

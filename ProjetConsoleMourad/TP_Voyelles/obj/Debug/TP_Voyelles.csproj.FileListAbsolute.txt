@@ -1,0 +1,7 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\bin\Debug\TP_Voyelles.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\bin\Debug\TP_Voyelles.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\bin\Debug\TP_Voyelles.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\obj\Debug\TP_Voyelles.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\obj\Debug\TP_Voyelles.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\obj\Debug\TP_Voyelles.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Voyelles\obj\Debug\TP_Voyelles.csprojAssemblyReference.cache

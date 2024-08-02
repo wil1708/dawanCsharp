@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employes>
+	<employe>
+		<Nom>Sara</Nom>
+		<Email>sara@dawan.fr</Email>
+	</employe>
+	<employe>
+		<Nom>Phrador</Nom>
+		<Email>phrador@dawan.fr</Email>
+	</employe>
+	<employe>
+		<Nom>Maelle</Nom>
+		<Email>Maelle@dawan.fr</Email>
+	</employe>
+	<employe>
+		<Nom>David</Nom>
+		<Email>david@dawan.fr</Email>
+	</employe>
+	<employe>
+		<Nom>Lionel</Nom>
+		<Email>lionel@dawan.fr</Email>
+	</employe>
+	<employe>
+		<Nom>William</Nom>
+		<Email>william@dawan.fr</Email>
+	</employe>	
+</Employes>

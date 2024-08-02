@@ -1,0 +1,63 @@
+﻿@model DemoHtmlHelper.Models.Employe
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Formulaire employé</h2>
+
+@using (Html.BeginForm())
+{
+    @*Les helpers fortement tyupés utilise les expressions lambdas (idem javascript)
+        Une expression Lambada est une fonction anonyme
+        Function(emp)
+        {
+        return emp;
+        }
+
+        A gauche de la flèche ce sont les paramètres et à droite, c'est ce que retourne la fonction
+        (emp => emp.Id) -------------Function(emp) {return emp.Id;}
+    *@
+
+    @*equivalent HTML : <label for="Id"> ID: </label>*@
+
+    @Html.LabelFor(emp => emp.DepartementId)
+
+    @Html.TextBoxFor(emp => emp.DepartementId)
+    <br />
+    @Html.LabelFor(emp => emp.Nom)
+
+    @Html.TextBoxFor(emp => emp.Nom)
+    <br />
+    @Html.LabelFor(emp => emp.Salaire)
+
+    @Html.TextBoxFor(emp => emp.Salaire)
+    <br />
+    @Html.LabelFor(emp => emp.DepartementId, "Departement: ")
+
+    @Html.DropDownListFor(emp => emp.DepartementId, TempData["DepartementId"] as SelectList)
+    <br />
+    @Html.LabelFor(emp => emp.Type, "Niveau employé: ")
+
+    @Html.EnumDropDownListFor(emp => emp.Type)
+    <br />
+    @Html.LabelFor(emp => emp.IsActif)
+
+    @Html.TextBox("IsActif");
+    <br />
+    @Html.LabelFor(emp => emp.Email, "Adresse email : ")
+
+    @Html.TextBoxFor(emp => emp.Email)
+    <br />
+    @Html.LabelFor(emp => emp.DateEntree)
+
+    @Html.TextBoxFor(emp => emp.DateEntree)
+    <br />
+
+    <input type="submit" name="btnSubmit" value="Envoyer" />
+}
+
+<br />
+La somme de 10 + 5 est : @MyHelpers.Somme(10,5)
+<br />
+L'heure : @MyHelpers.Heure()
+

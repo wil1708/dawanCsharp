@@ -1,0 +1,5 @@
+C:\Users\William\source\repos\ProjetConsole\ProjetDLL\bin\Debug\ProjetDLL.dll
+C:\Users\William\source\repos\ProjetConsole\ProjetDLL\bin\Debug\ProjetDLL.pdb
+C:\Users\William\source\repos\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.dll
+C:\Users\William\source\repos\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.pdb

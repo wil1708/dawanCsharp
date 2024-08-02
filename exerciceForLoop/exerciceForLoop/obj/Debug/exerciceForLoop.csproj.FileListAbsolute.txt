@@ -1,0 +1,7 @@
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\bin\Debug\exerciceForLoop.exe.config
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\bin\Debug\exerciceForLoop.exe
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\bin\Debug\exerciceForLoop.pdb
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\obj\Debug\exerciceForLoop.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\obj\Debug\exerciceForLoop.exe
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\obj\Debug\exerciceForLoop.pdb
+C:\Users\William\source\repos\exerciceForLoop\exerciceForLoop\obj\Debug\exerciceForLoop.csproj.AssemblyReference.cache

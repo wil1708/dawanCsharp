@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPFTraining.FenQcm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTraining"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="FenQcm" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="766">
+            <TextBlock HorizontalAlignment="Left" Margin="32,29,0,0" TextWrapping="Wrap" Text="Intitulé :" VerticalAlignment="Top"/>
+            <TextBox x:Name="TBIntituleQcm" HorizontalAlignment="Left" Height="23" Margin="96,28,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" />
+
+            <TextBlock HorizontalAlignment="Left" Margin="32,76,0,0" TextWrapping="Wrap" Text="Enoncé :" VerticalAlignment="Top"/>
+            <TextBox x:Name="TBQuestionEnonce" HorizontalAlignment="Left" Height="17" Margin="96,75,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="376" />
+
+            <StackPanel x:Name="PanelReponse" HorizontalAlignment="Left" Height="118" Margin="32,110,0,0" VerticalAlignment="Top" Width="311">
+                <RadioButton Content="RadioButton"/>
+                <RadioButton Content="RadioButton"/>
+            </StackPanel>
+            <Button x:Name="BtnSuivant" Content="Suivant" HorizontalAlignment="Left" Margin="268,255,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.166,-0.017" Click="BtnSuivant_Click"/>
+            <TextBlock x:Name="TBCompteur" HorizontalAlignment="Left" Margin="653,28,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" RenderTransformOrigin="1.245,4.125"/>
+
+        </Grid>
+    </Grid>
+</Window>

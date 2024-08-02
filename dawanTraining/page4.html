@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/monStyle.css" type="text/css">
+
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formulaire</h1>
+    <form action="Traitement.asp" method="GET">
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom" placeholder="Votre nom">
+        <br>
+        <label for="prenom">Prénom :</label>
+        <input type="text"id="prenom" name="prenom" placeholder="Votre prénom">
+        <br>
+        <label for="email">Email :</label>
+        <input type="email"id="email" name="email" placeholder="Votre email">
+        <br>
+        <label for="date">Date de naissance :</label>
+        <input type="date"id="date" name="date" placeholder="jj/mm/aaaa">
+        <br>
+        <label for="text">Texte :</label>
+        <textarea name="text" id="text" cols="30" rows="10">Votre texte...</textarea>
+        <br>
+        <label for="case">Case à cocher :</label>
+        <input type="checkbox"id="case" name="case">
+        <br>
+        Genre :
+        <label for="homme">Homme</label>
+        <input type="radio"id="homme" value="0" name="genre">
+        <label for="femme">Femme</label>
+        <input type="radio"id="femme" value="1" name="genre">
+        <br>
+        <label for="choix">Pays</label>
+        <select name="choix" id="choix" required>
+            <option value="" disabled selected>Sélectionner votre pays</option>
+            <option value="fr">France</option>
+            <option value="ca">Canada</option>
+            <option value="us">Etats-Unis</option>
+        </select>
+        <button type="submit">Envoyer</button>
+    </form>
+</body>
+</html>

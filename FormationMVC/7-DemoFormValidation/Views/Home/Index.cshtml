@@ -1,0 +1,86 @@
+﻿@model _7_DemoFormValidation.Models.Employe
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+@*form-data nous permet également d'envoyer des fichiers*@
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @*Protege notre formulaire contre les attauqes CSRF*@
+    @Html.AntiForgeryToken()
+
+    @*L'élément HTML <fieldset> est utilisé afin de regrouper plusieurs contrôles interactifs ainsi que des étiquettes (<label>
+        dans un formulaire web*@
+    <div class="form-horizontal">
+
+
+        <fieldset>
+            <legend>Employé</legend>
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.UserName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.Password, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.Password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.DateNaissance, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.DateNaissance, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.DateNaissance, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.Evaluation, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.Evaluation, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.Evaluation, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.NumeroTelephone, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.NumeroTelephone, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.NumeroTelephone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(emp => emp.Commentaire, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(emp => emp.Commentaire, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(emp => emp.Commentaire, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            @Html.Label("Photo: ")
+            @Html.ValidationMessageFor(emp => emp.Photo, "", new { @class = "text-danger" })
+            <input type="file" name="photo" value="" />
+            <br />
+
+            <input type="submit" name="btnSubmit" value="Envoyer" />
+
+        </fieldset>
+    </div>
+}

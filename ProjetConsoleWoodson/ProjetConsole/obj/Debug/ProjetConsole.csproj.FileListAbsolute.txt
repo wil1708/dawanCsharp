@@ -1,0 +1,10 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\bin\Debug\ProjetConsole.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\bin\Debug\ProjetConsole.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\bin\Debug\ProjetConsole.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.csprojAssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\bin\Debug\ProjetDLL.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\bin\Debug\ProjetDLL.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetConsole\obj\Debug\ProjetConsole.csproj.CopyComplete

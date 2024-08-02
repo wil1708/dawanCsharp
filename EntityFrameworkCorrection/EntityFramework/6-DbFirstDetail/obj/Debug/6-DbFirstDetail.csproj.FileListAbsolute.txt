@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\6-DbFirstDetail.exe.config
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\6-DbFirstDetail.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\6-DbFirstDetail.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\obj\Debug\6-DbFirstDetail.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\obj\Debug\6-DbFirstDetail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\obj\Debug\6-DbFirstDetail.csproj.CopyComplete
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\obj\Debug\6-DbFirstDetail.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\6-DbFirstDetail\obj\Debug\6-DbFirstDetail.pdb

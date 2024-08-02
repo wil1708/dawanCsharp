@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\bin\Debug\Design_Winform.exe.config
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\bin\Debug\Design_Winform.exe
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\bin\Debug\Design_Winform.pdb
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.Form1.resources
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.exe
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.pdb
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.Inscription.resources
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.Connexion.resources
+C:\Users\Admin\Desktop\ProjetConsole\Design_Winform\obj\Debug\Design_Winform.Deconnexion.resources

@@ -1,0 +1,11 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\bin\Debug\Librairie_Winform.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\bin\Debug\Librairie_Winform.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\bin\Debug\Librairie_Winform.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.csprojAssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.Form1.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.Properties.Resources.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.csproj.GenerateResource.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\Librairie_Winform\obj\Debug\Librairie_Winform.AjouterProduit.resources

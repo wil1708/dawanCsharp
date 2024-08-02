@@ -1,0 +1,14 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\bin\Debug\TP_CalculatriceConsole.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\bin\Debug\TP_CalculatriceConsole.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\bin\Debug\TP_CalculatriceConsole.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\bin\Debug\TP_CalculatriceConsole.exe.config
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\bin\Debug\TP_CalculatriceConsole.exe
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\bin\Debug\TP_CalculatriceConsole.pdb
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.exe
+C:\Users\Admin\Desktop\ProjetConsole\TP_CalculatriceConsole\obj\Debug\TP_CalculatriceConsole.pdb

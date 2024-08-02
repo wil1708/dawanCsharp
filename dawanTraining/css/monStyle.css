@@ -1,0 +1,94 @@
+/* Commentaire : j'aime le bleu */
+body {
+    color:lightblue;
+    background-color: khaki;
+    
+}
+
+p {
+    color:gray;
+    background-color: mediumaquamarine;
+}
+
+#monId {
+    background-color: orange;
+}
+
+/* règle de classe */
+.bordure {
+    border: 1px solid black;
+}
+
+.sombre {
+    color:gray;
+    background-color: black;
+    border: 2px solid gray;
+}
+
+h1.bordure {
+    border-radius: 20px;
+}
+
+a, h1.bordure.sombre {
+    color: green;
+}
+
+#monId div li {
+    color: red;
+}
+div .bordure {
+    color: red;
+}
+
+ul + p {
+    color: yellow;
+}
+
+ol li:first-child {
+    color: hotpink;
+}
+
+tr:nth-child(odd) {
+    background-color: gray;
+}
+
+table, tr, td, th {
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+p::first-letter {
+    font-size: 35px;
+    color: red;
+}
+
+tr:hover {
+    background-color: greenyellow;
+    border: 2px solid red;
+}
+
+tr:hover td {
+    border: 1px solid red;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+/* centrage du paragraphe */
+
+p {
+    border: 1px solid black;
+    padding: 5px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.sombre {
+    width: 100px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}

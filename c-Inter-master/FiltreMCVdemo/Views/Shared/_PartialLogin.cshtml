@@ -1,0 +1,13 @@
+﻿@if (!string.IsNullOrEmpty(Convert.ToString(Session["username"])))
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Bienvenue: @Session["username"]</a></li>
+        <li>@Html.ActionLink("Déconnexion", "LogOut", "Account")</li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Login", "Login", "Account")</li>
+    </ul>
+}

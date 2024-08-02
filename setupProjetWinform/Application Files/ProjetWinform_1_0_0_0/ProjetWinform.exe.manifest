@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ProjetWinform.exe" version="1.0.0.0" publicKeyToken="6fabaaed3dd839fa" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Hopstarter-Square-Flags-England-Flag.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ProjetWinform" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ProjetWinform.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjetDLL.dll" size="13312">
+      <assemblyIdentity name="ProjetDLL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>JYkvAZyHNdOR//7ac4dvCmFZ2TeS4sp4MntYvBk937g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjetWinform.exe" size="402928">
+      <assemblyIdentity name="ProjetWinform" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eQTopyeOodBQCBQ0Nazw/R2fTSjkBdGIwW4ilnPbybs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Hopstarter-Square-Flags-England-Flag.ico" size="174776">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fhba8Hv8xUoWCeCOzlnZI9ZBK0oUm3eO1rO8B+rIwpw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ProjetWinform.exe.config" size="673">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rEy4lIBM90+pe6NbcCLeBSK+MzGi8kiiF2+Ln5g/xio=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-C46EN7H\William" issuerKeyHash="d5e55c7cb3d39a34b31e276620d45e8aa2a70f7a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>DvgQWviUK84yYcofM514H3V1UEK5QXDP1OPf9aXuiqI=</DigestValue></Reference></SignedInfo><SignatureValue>cbn7HXODt6RArJPGRjE34d4X4lzLPJUpSbEGVCt8F3vAe01NlLJcDPGH+ox50FoWBSjPfFZrlwyROLZ2g0DtrZJWbTbEuCezkf7uD8++3tlKlnks6TCg5G2DYeXTzBOS88FXRWlLeHaL6E5sqYveVboy7xoaqQP+CzgPq5XlkEQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rapBVgabsDztZjLlwZVRdL7xmxPI6GsZn2xx5J4NInPpafNpAtahxQW+vpGw5w30ti1gXsnovci0zLpNA1Hhr12wAlsccZEwfiajpgKP0KZXtKzbHODdZNvQ5/NYJ8/SV2Ei+aIG3UlTtEnYm4OdOc7spWSkNqio82NSNRYqZsE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a28aeea5f5dfe3d4cf7041b9425075751f789d331fca6132ce2b94f85a10f80e" Description="" Url=""><as:assemblyIdentity name="ProjetWinform.exe" version="1.0.0.0" publicKeyToken="6fabaaed3dd839fa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-C46EN7H\William</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6P8kJJJ4aaOxq3ezfHT7Mrs+x/es9bXrIDcKkUxIuuI=</DigestValue></Reference></SignedInfo><SignatureValue>PZje8WeKNqsxDAjqok5q9bc3eKaMVhuT40ylVfHqE2kyzcouZrlumKX7Oxj9jIKhgnsETM0fTuVuDNqlPz2AJLcw32i9l/xSMHk+s7MrFTy2BPN7yfPiupyG8FeLYJFGV6pYc7AUfXx7IdMJruvvC2euN+8ALLjVq9Cizo0b9nM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rapBVgabsDztZjLlwZVRdL7xmxPI6GsZn2xx5J4NInPpafNpAtahxQW+vpGw5w30ti1gXsnovci0zLpNA1Hhr12wAlsccZEwfiajpgKP0KZXtKzbHODdZNvQ5/NYJ8/SV2Ei+aIG3UlTtEnYm4OdOc7spWSkNqio82NSNRYqZsE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQN1QUNvPZnoBM0NwdOh+MoDANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ARABFAFMASwBUAE8AUAAtAEMANAA2AEUATgA3AEgAXABXAGkAbABsAGkAYQBtMB4XDTIxMDUxODEzMzM1OFoXDTIyMDUxODE5MzM1OFowOTE3MDUGA1UEAx4uAEQARQBTAEsAVABPAFAALQBDADQANgBFAE4ANwBIAFwAVwBpAGwAbABpAGEAbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArapBVgabsDztZjLlwZVRdL7xmxPI6GsZn2xx5J4NInPpafNpAtahxQW+vpGw5w30ti1gXsnovci0zLpNA1Hhr12wAlsccZEwfiajpgKP0KZXtKzbHODdZNvQ5/NYJ8/SV2Ei+aIG3UlTtEnYm4OdOc7spWSkNqio82NSNRYqZsECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAwlTd2jWQEUJB3Poi7To46+5Y6W/5VBCi1FE/s1pkBQ26VzggrhTEhqVu6u2Xz9DO7OquQnFsJoYvCNek+vQs3sk0dQA6qCeZ8h51xOZWxowLd6N6N0fMLWRxJyDRBXk1y3dCiGoTXR+n6Sm/mvV0B7d21T9YSG4hpZqVkzs9qOQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

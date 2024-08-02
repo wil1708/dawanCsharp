@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\8-DataAnnotation.exe.config
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\8-DataAnnotation.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\8-DataAnnotation.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\8-DataAnnotation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\8-DataAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\8-DataAnnotation.csproj.CopyComplete
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\8-DataAnnotation.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\8-DataAnnotation.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\_8_DataAnnotation.Migrations.initialModel.resources
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\8-DataAnnotation.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\8-DataAnnotation\obj\Debug\_8_DataAnnotation.Migrations.AddContraintToClassAuthorAndCourse.resources

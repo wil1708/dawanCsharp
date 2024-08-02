@@ -1,0 +1,107 @@
+﻿<Window x:Class="WPFTraining.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTraining"
+        xmlns:localvalid="clr-namespace:WPFTraining.Validations"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <localvalid:MonConvertisseurErreurs x:Key="monConvertErreurs" />
+    </Window.Resources>
+    <StackPanel Orientation="Vertical">
+        <Menu>
+            <MenuItem Header="_Fichier">
+                <Menu>
+                    <Menu.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <VirtualizingStackPanel Orientation="Vertical" />
+                        </ItemsPanelTemplate>
+                    </Menu.ItemsPanel>
+                    <MenuItem x:Name="miExemple1" Header="Exemple1" Click="miExemple1_Click"  />
+                    <Separator />
+                    <MenuItem x:Name="miExemple2" Header="Exemple2" Click="miExemple2_Click"  />
+                    <Separator />
+                    <MenuItem x:Name="miQcm" Header="QCM" Click="miQcm_Click" />
+                    <Separator />
+                    <MenuItem x:Name="miQuitter" Header="Quitter" Click="miQuitter1_Click" />
+                </Menu>
+            </MenuItem>
+        </Menu>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition  />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="18*"  />
+                <ColumnDefinition Width="299*"/>
+                <ColumnDefinition Width="79*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Vertical" Grid.Column="0" Grid.ColumnSpan="2">
+                <DataGrid x:Name="DGProduits" AutoGenerateColumns="False" CanUserAddRows="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Détail Produit" Binding="{Binding Description}" />
+                        <DataGridTextColumn Header="Prix Unitaire" Binding="{Binding Prix}" />
+                        <DataGridTemplateColumn>
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Supprimer" Click="Button_Click" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Column="2">
+                <Button x:Name="BtnExporter" Width="100" Margin="5" Content="Exporter" Click="BtnExporter_Click" />
+                <Button x:Name="BtnImporter" Width="100" Margin="5" Content="Importer" Click="BtnImporter_Click" />
+                <Button x:Name="BtnModifier" Width="100" Margin="5" Content="Modifier" Click="BtnModifier_Click" />
+            </StackPanel>
+        </Grid>
+
+        <Grid Margin="111,0,169.667,0">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="141*" />
+                <ColumnDefinition Width="373*" />
+            </Grid.ColumnDefinitions>
+
+
+            <TextBlock Text="Id :" Grid.Row="0" Grid.Column="0" Margin="5,5,4.667,5" />
+            <TextBox x:Name="TBoxId" Grid.Row="0" Grid.Column="1" Margin="5" />
+
+            <TextBlock Text="Description :" Grid.Row="1" Grid.Column="0" Margin="5,5,4.667,5" />
+            <TextBox x:Name="TBoxDescription" Grid.Row="1" Grid.Column="1" Margin="5" />
+
+
+            <TextBlock Text="Prix :" Grid.Row="2" Grid.Column="0" Margin="5,5,4.667,5" />
+            <TextBox x:Name="TBoxPrix" Grid.Row="2" Grid.Column="1" Margin="5" >
+                <TextBox.Text>
+                    <Binding Path="Text" ElementName="TBoxPrix">
+                        <Binding.ValidationRules>
+                            <localvalid:RegleValidationIntervDouble Min="100" Max="1000" ValidatesOnTargetUpdated="True" />
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <TextBlock Foreground="Red"  Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2"
+                   Text="{Binding ElementName=TBoxPrix,Path=(Validation.Errors), Converter={StaticResource monConvertErreurs}}" />
+
+            <Button x:Name="BtnSauvegarder" Grid.Row="3" Grid.Column="1" Content="Sauvegarder" Height="20" VerticalAlignment="Top" Click="BtnSauvegarder_Click"  />
+        </Grid>
+
+
+
+    </StackPanel>
+
+</Window>
+

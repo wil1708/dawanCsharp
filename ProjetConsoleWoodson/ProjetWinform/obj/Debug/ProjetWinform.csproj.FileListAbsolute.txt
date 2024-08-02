@@ -1,0 +1,38 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\bin\Debug\ProjetWinform.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\bin\Debug\ProjetWinform.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\bin\Debug\ProjetWinform.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.csprojAssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.Form1.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.Properties.Resources.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.csproj.GenerateResource.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.Fichier.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\bin\Debug\ProjetDLL.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\bin\Debug\ProjetDLL.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.csproj.CopyComplete
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.Comptes.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.Validation.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.AjouterProduit.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.AjouterUtilisateur.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetWinform\obj\Debug\ProjetWinform.BDD.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\bin\Debug\ProjetWinform.exe.config
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\bin\Debug\ProjetWinform.exe
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\bin\Debug\ProjetWinform.pdb
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\bin\Debug\ProjetDLL.dll
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\bin\Debug\ProjetDLL.pdb
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.AjouterProduit.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.AjouterUtilisateur.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.BDD.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.Comptes.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.Fichier.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.Form1.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.Properties.Resources.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.Validation.resources
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.csproj.GenerateResource.cache
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.csproj.CopyComplete
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.exe
+C:\Users\William\source\repos\ProjetConsoleCorrection\ProjetWinform\obj\Debug\ProjetWinform.pdb

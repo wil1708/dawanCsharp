@@ -1,0 +1,49 @@
+﻿<Window x:Class="WPFTraining.FenPanier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTraining"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="FenPanier" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+
+        <TextBlock Text="Contenu du panier" />
+
+        <DataGrid x:Name="DGLignesPanier" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Produit" Binding="{Binding ProduitDescription}" />
+                <DataGridTemplateColumn Header="-">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="-" x:Name="btnReduireQte" Click="btnReduireQte_Click" />
+
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Qté" Binding="{Binding Qte}" />
+                <DataGridTemplateColumn Header="+">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="+" x:Name="btnAjouterQte" Click="btnAjouterQte_Click" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Prix U." Binding="{Binding PrixUnitaire}" />
+                <DataGridTextColumn Header="Prix T." Binding="{Binding PrixTotal}" />
+                <DataGridTemplateColumn Header="Actions">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="[X]" x:Name="btnSupprimer" Click="btnSupprimer_Click" />
+
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBlock x:Name="TBTotalPanier" Text="TOTAL PANIER = " />
+
+    </StackPanel>
+</Window>

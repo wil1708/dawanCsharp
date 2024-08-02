@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=myusine \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://192.168.1.20:9000 \
+  -Dsonar.login=69104d14f7a9fcd77c3d4299742b910aa3c91502

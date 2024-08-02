@@ -1,0 +1,10 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\bin\Debug\TP_Calculatrice_Graphique.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\bin\Debug\TP_Calculatrice_Graphique.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\bin\Debug\TP_Calculatrice_Graphique.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.Form1.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.Properties.Resources.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.csproj.GenerateResource.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Calculatrice_Graphique\obj\Debug\TP_Calculatrice_Graphique.csprojAssemblyReference.cache

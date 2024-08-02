@@ -1,0 +1,15 @@
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.exe
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.deps.json
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.runtimeconfig.json
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.dll
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.pdb
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.csproj.AssemblyReference.cache
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.AssemblyInfo.cs
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.dll
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\refint\OldStyleApp.dll
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.pdb
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.genruntimeconfig.cache
+C:\Users\William\source\repos\OldStyleApp\OldStyleApp\obj\Debug\net6.0\ref\OldStyleApp.dll

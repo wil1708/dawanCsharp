@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\9-FluentApi.exe.config
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\9-FluentApi.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\9-FluentApi.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\9-FluentApi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\9-FluentApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\9-FluentApi.csproj.CopyComplete
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\9-FluentApi.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\9-FluentApi.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\_9_FluentApi.Migrations.initialModel.resources
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\9-FluentApi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\9-FluentApi\obj\Debug\_9_FluentApi.Migrations.AjoutTestDataWithSeedMethode.resources

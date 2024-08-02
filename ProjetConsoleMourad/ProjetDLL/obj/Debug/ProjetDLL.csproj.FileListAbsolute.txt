@@ -1,0 +1,11 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetDLL\bin\Debug\ProjetDLL.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetDLL\bin\Debug\ProjetDLL.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.csprojAssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.pdb
+C:\Users\Admin\Desktop\ProjetConsole\ProjetDLL\bin\Debug\ProjetDLL.dll
+C:\Users\Admin\Desktop\ProjetConsole\ProjetDLL\bin\Debug\ProjetDLL.pdb
+C:\Users\Admin\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.dll
+C:\Users\Admin\Desktop\ProjetConsole\ProjetDLL\obj\Debug\ProjetDLL.pdb

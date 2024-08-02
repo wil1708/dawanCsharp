@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\2-CodeFirst.exe.config
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\2-CodeFirst.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\2-CodeFirst.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\2-CodeFirst.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\2-CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\2-CodeFirst.csproj.CopyComplete
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\2-CodeFirst.exe
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\2-CodeFirst.pdb
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\_2_CodeFirst.Migrations.InitialModel.resources
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\2-CodeFirst.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\_2_CodeFirst.Migrations.AjoutUserClasse.resources
+C:\Users\Admin\Desktop\EntityFramework\EntityFramework\2-CodeFirst\obj\Debug\_2_CodeFirst.Migrations.AttributEmailClasseUser.resources

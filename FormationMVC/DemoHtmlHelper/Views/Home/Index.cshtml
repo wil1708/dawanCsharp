@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@*Créons un lien hypertext avec l'élément HTML <a href=".."></a>*@
+<a href="/Home/AboutUs?Id1=1&nom=dawan" target="_blank">About US</a>
+
+@*
+    Créons un lien hypertext avec l'élément HTML Helper correspondant à l'élément HTML <a href=".."></a>
+    new { Id = 1, nom = "dawan" } ==> contient les paramètres qui sont dans l'url, ces paramètres sont transmis à l'action About.
+    On spécifie ensuite un attribut HTML ==> new {target = "_blank"}
+*@
+
+@Html.ActionLink("About Us", "AboutUs", "home", new { Id1 = 1, nom = "dawan" }, new { target = "_blank" })
+<br />
+
+@*<form action="/Home/About" method="post">
+        <input type="text" name="nom" value="" />
+        <input type="submit" name="btnSubmit" value="Valider" />
+    </form>*@
+
+@*On va créer un formulaire avec les helpers
+    On va utiliser le using afin d'assurer que la balise <form> sera fermé à la fin du bloc
+    On utilise le helper Html.BeginForm() qui remplace la balise html <form>
+*@
+
+@using (Html.BeginForm("Bonjour", "Home", FormMethod.Post))
+{
+    //Equivalent HTML : <label for ="nom>Nom: </label>
+    @Html.Label("nom", "Nom: ")
+    <br />
+
+    //Un TextBox est un champ de saisi, on lui ajoute un attribut class form- équivalent html : <input class="form-control" id="nom" name="nom" type="test" value="" />
+    @Html.TextBox("nom", null, new { @class = "form-control" })
+
+    <br />
+    @Html.Label("prenom", "Prénom: ")
+    <br />
+    @Html.TextBox("prenom", null, new { @class = "form-control" })
+
+    //On a plusieurs postes, un poste de dev, de consultant et de manager
+    @:Poste: <br />
+    @*<input type="radio" name="Poste" value="Developpeur" id="Dev"*@
+    @Html.RadioButton("Poste", "Developpeur", new { id = "Dev" })
+    @Html.Label("Dev", "Developpeur")
+
+    @Html.RadioButton("Poste", "Consultant", new { id = "Cons" })
+    @Html.Label("Cons", "Consultant")
+
+    @Html.RadioButton("Poste", "Manager", new { id = "manag" })
+    @Html.Label("manag", "Manager")
+    <br />
+    //On remplit notre DropDownList avec les données ViewBag
+    @:Formation
+    <br />
+    @Html.DropDownList("formations")
+    <br />
+
+    <input type="submit" name="btnSubmit" value="Envoyer" />
+}

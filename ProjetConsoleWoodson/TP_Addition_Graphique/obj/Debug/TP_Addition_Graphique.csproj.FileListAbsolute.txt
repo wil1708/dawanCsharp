@@ -1,0 +1,10 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\bin\Debug\TP_Addition_Graphique.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\bin\Debug\TP_Addition_Graphique.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\bin\Debug\TP_Addition_Graphique.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.csprojAssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.Form1.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.Properties.Resources.resources
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.csproj.GenerateResource.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Addition_Graphique\obj\Debug\TP_Addition_Graphique.pdb

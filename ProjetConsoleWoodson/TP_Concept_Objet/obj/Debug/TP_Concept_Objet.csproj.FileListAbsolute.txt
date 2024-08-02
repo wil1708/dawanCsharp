@@ -1,0 +1,7 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\bin\Debug\TP_Concept_Objet.exe.config
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\bin\Debug\TP_Concept_Objet.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\bin\Debug\TP_Concept_Objet.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\obj\Debug\TP_Concept_Objet.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\obj\Debug\TP_Concept_Objet.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\obj\Debug\TP_Concept_Objet.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\ProjetConsole\TP_Concept_Objet\obj\Debug\TP_Concept_Objet.csprojAssemblyReference.cache

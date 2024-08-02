@@ -1,0 +1,80 @@
+.icone {
+    width: 50px;
+    
+}
+p {
+    text-align: justify;
+}
+.margeDiv {
+    margin: 30px 0;
+}
+
+ul {
+    background-color: greenyellow;
+}
+
+footer {
+    background-color: rgb(243, 236, 236);
+    padding: 10px 0 10px 0;
+}
+h5 {
+    text-align: center;
+}
+
+.input-group-text {
+    width: 170px;
+}
+.contact {
+    width: 500px;
+}
+
+main form {
+    margin: 50px 0 100px 0;
+}
+
+h3 {
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.form-check {
+    margin: 10px 0;
+}
+
+.form-group {
+    height: 60px;
+}
+
+.loginBorder {
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+}
+
+.backImg {
+    background-image: url(/img/schrecksee-2534484_1920.jpg);
+    background-size: cover;
+}
+
+.loginTitle {
+    color: white;
+}
+
+.labelWhite {
+    color: white;
+}
+
+.form-floating {
+    margin: 25px 0 0 0;
+}
+
+div.card {
+    background-color: black;
+    width: 100%!important;
+}
+.card-title, .card-text {
+    color: white;
+}
+
+.drop {
+    color: green;
+}
+
